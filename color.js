@@ -1,0 +1,13 @@
+cadetblue
+darkcyan
+darkgoldenrod 
+darkslateblue
+darkslategrey
+darkturquoise 
+lightseagreen
+midnightblue
+navy
+purple
+skyblue
+teal
+//https://reactnative.dev/docs/colors
